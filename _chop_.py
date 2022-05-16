@@ -212,5 +212,5 @@ ape_do_both.rename(columns={'ENCOUNTER_START':'HOSPITAL_ENCOUNTER_DATE','AGE_AT_
 # In[203]:
 
 
-ape_do_both.to_csv(r'/Users/hkokat963/Downloads/analyst-take-home-task-master/Solution/garvita_nagar.csv', index=False)
+ape_do_both.to_csv(r'/Users/gn342/Downloads/analyst-take-home-task-master/Solution/garvita_nagar.csv', index=False)
 
